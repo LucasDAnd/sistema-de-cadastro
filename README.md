@@ -4,6 +4,5 @@
 
 Para rodar esse projeto realize
 '''
-node app.js
+npm install react
 '''
-:)
